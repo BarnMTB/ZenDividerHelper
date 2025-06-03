@@ -1,0 +1,2 @@
+# ZenDividerHelper
+ZenDivider WebExtension
