@@ -8,9 +8,6 @@
   </a>
 </p>
 
-## Get to know a Divider
-A Divider in ZenDivider is a simple tab with a large textbox in the middle. Whatever you typed inside it, they'll appear on the Divider's tab title. Then, you can move it around to help divide & organize your tabs into sections, which is really ideal for when you have tons of tabs (and looks really good with vertical tabs)
-
 ## Create it
 With ZenDivider Extension, there are many ways to create a Divider.
 - 📌 **Toolbar Button**: Click on the extension to create a new Divider. You can pin the extension to the browser toolbar for easier access.
@@ -22,13 +19,12 @@ With ZenDivider Extension, there are many ways to create a Divider.
   - Zen Browser currently has a bug breaking Omnibar shortcuts that are provided by extension, so this currently does not work in Zen Browser. In testing, it still works with Firefox.
  
 ## Rename it
-A divider is a simple 
-Give it a name.
-Press `Enter` or `Esc`
-If your browser is set to restore tabs from previous session, Divider will also be remembered & persist between sessions.
+A Divider in ZenDivider is a simple tab with a large textbox in the middle. Whatever you typed inside it, they'll appear on the Divider's tab title. Then, you can move it around to help divide & organize your tabs into sections, which is really ideal for when you have tons of tabs (and looks really good with vertical tabs) (it also changes between dark & light theme according to your browser settings)
+- ✏️ Go ahead, give it a name. They're automatically saved as you type, but if you want to unfocus the textbox, just press `Enter` or `Esc` (and click on the textbox again if you want to type some more).  
+- 💾 If your browser is set to restore tabs from previous session, all those Dividers will also be remembered & persist between sessions alongside your tabs.  
 
 ## Move it
-Move your Dividers around and use it to divide & organize your tabs.
+↕️ Move your Dividers around and use it to divide & organize your tabs. Move it like you do with normal tabs.
 
 ## Note
 ZenDivider Extension is required in order to view Dividers opened via ZenDivider Extension.
