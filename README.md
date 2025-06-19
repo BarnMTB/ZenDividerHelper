@@ -1,5 +1,5 @@
-<h1 align="center">ZenDivider Extension</h1>
-<p align="center">ZenDivider Browser Extension lets you quickly create a simple renamable Divider for your tabs.</p>
+<h1 align="center">ZenDivider Browser Extension</h1>
+<p align="center">ZenDivider Extension let you quickly create a simple renamable Divider for your tabs.</p>
 <p align="center">Create it, Rename it, Move it.</p>
 
 <p align="center">
