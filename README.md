@@ -1,5 +1,5 @@
 <h1 align="center">ZenDivider Browser Extension</h1>
-<p align="center">ZenDivider Extension let you quickly create a simple renamable Divider for your tabs.</p>
+<p align="center">ZenDivider extension let you quickly create a simple renamable Divider for your tabs.</p>
 <p align="center">Create it, Rename it, Move it.</p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 ## Create it
-With ZenDivider Extension, there are many ways to create a Divider.
+With ZenDivider extension, there are many ways to create a Divider.
 - 📌 **Toolbar Button**: Click on the extension to create a new Divider. You can pin the extension to the browser toolbar for easier access.
 - 🖱️ **Context Menu**: Right click on any tab and select `New Divider`, a new Divider will be created in front of that tab.
 - ⌨️ **Keyboard Shortcut**: Set your own keyboard shortcut to create a new Divider. The extension does not provide a pre-set shortcut, so you must first set your own. See [Manage extension shortcuts in Firefox](https://mzl.la/3Qwp5QQ) to learn how.
