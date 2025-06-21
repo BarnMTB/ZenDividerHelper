@@ -40,6 +40,6 @@ ZenDivider Extension is required in order to view Dividers opened via ZenDivider
   - Note that you can't automatically migrate Dividers opened via ZenDivider Extension to a Divider opened from a standalone ZenDivider HTML file. Migration between the two have to be done manually.
 
 ---
-ZenDivider Extension, ZenDivider, including its developer, is not associated or affiliated with Zen Browser or its developers in any way, shape, or form. I created ZenDivider because my tabs are piling up and I realize I can do something about it that doesn't involve tinkering around the browser files & risk having something broken sooner or later in an update (and then spend more time figuring out why it was broken).
+ZenDivider Extension, ZenDivider, including its developer, is not associated or affiliated with Zen Browser or its developers in any way, shape, or form. I created ZenDivider because my tabs are piling up and I realize I can do something about it that doesn't involve tinkering around the browser files & risk having something broken sooner or later in an update (and then spend more time diagnosing when it does break) or enabling WIP features & risk tab loss.
 
 <a href="https://github.com/BarnMTB/ZenDivider">ZenDivider</a> and <a href="https://github.com/BarnMTB/ZenDividerHelper">ZenDivider browser extension</a> © 2025 by <a href="https://github.com/BarnMTB/ZenDividerHelper">BarnMTB</a>, including its source code, is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
