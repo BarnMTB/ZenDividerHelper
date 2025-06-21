@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://addons.mozilla.org/en-US/firefox/addon/zendivider/">
-  <img src="Readme/get-the-addon-fx-apr-2020.svg" width="198" align="center">
+  <img src="Assets/get-the-addon-fx-apr-2020.svg" width="198" align="center">
   </a>
 </p>
 
