@@ -1,0 +1,56 @@
+{
+    "manifest_version" : 3,
+    "name" : "ZenDivider",
+    "short_name" : "ZenDivider",
+    "version" : "1.1",
+
+    "description" : "Creates a simple, movable, and renamable divider to divide your tabs.",
+
+    "developer" : {
+        "name" : "BarnMTB",
+        "url" : "https://github.com/BarnMTB/ZenDividerHelper"
+    },
+    "homepage_url" : "https://github.com/BarnMTB/ZenDividerHelper",
+
+    "icons" : {
+        "48" : "Assets/ZenDivider_filled_fallback_48.png",
+        "96" : "Assets/ZenDivider_filled_fallback_96.png" 
+    },
+
+    "browser_specific_settings" : {
+        "gecko" : {
+            "id" : "{65f80e5d-0040-4f11-91f5-c01d7470915a}"
+        }
+    },
+
+    "permissions": ["menus"],
+
+    "background" : {
+        "scripts" : ["ZenDividerSpawner.js"]
+    },
+
+    "commands" : {"_execute_action" : {"description" : "Create a new tab divider"}},
+    "omnibox" : {"keyword" : "zd"},
+    "action" : {
+        "default_area " : "navbar",
+        "default_title" : "Create a new tab divider", 
+        "default_icon" : {
+            "48" : "Assets/ZenDivider_outline_black_48.png",
+            "96" : "Assets/ZenDivider_outline_black_96.png"
+        },
+        "theme_icons" : [
+            {
+                "dark" : "Assets/ZenDivider_outline_black_48.png",
+                "light" : "Assets/ZenDivider_outline_white_48.png",
+                "size" : 48
+            },
+            {
+                "dark" : "Assets/ZenDivider_outline_black_96.png",
+                "light" : "Assets/ZenDivider_outline_white_96.png",
+                "size" : 96
+            }
+        ]
+    }
+
+
+}
