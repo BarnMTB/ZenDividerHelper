@@ -1,7 +1,7 @@
 <p align="center">
   <img src="Assets/ZenDivider Extension Logo.png" width="350" align="center">
   <br>
-  <img src="Assets/ZenDivider GitHub Hero.png" height="500" align="center">
+  <img src="Assets/ZenDivider GitHub Hero.png" max-height="500" align="center">
 </p>
 
 <h1 align="center">ZenDivider Browser Extension</h1>
