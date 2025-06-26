@@ -22,7 +22,7 @@ With ZenDivider extension, there are many ways to create a Divider.
 - 🌐 **Omnibar**:
   - Type `zd` into the address bar, follow it with a space, then press `Enter` to create a new Divider.
   - Type `zd` into the address bar, add a space, and type in the name of that Divider, then press `Enter` to create a new pre-filled Divider.
-  - Zen Browser currently has a bug that breaks Omnibar shortcuts provided by extensions, so Omnibar functionality currently does not work in Zen Browser. But it still works in Firefox during my test.
+  - Zen Browser currently has a bug that breaks Omnibar shortcuts provided by extensions, so Omnibar functionality currently does not work in Zen Browser. But it still works in Firefox during my test. ([Issue Tracker](https://github.com/zen-browser/desktop/issues/8785))
  
 ## Rename it
 A Divider in ZenDivider is a simple tab with a large textbox in the middle. Whatever you typed inside it, they'll appear on the Divider's tab title. Then, you can move it around to help divide & organize your tabs into sections, which is really ideal for when you have tons of tabs (and looks really good with vertical tabs) (it also changes between dark & light theme according to your browser settings)
