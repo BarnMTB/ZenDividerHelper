@@ -40,7 +40,7 @@ ZenDivider Extension is required in order to view Dividers opened via ZenDivider
 ## Curiosity Corner
 - ⚡ This extension is completely local & offline. It does not connect to the internet.
 - 🍃 This extension does not use any frameworks; it's just a plain and simple HTML & JS.
-- 📄 ZenDivider was originally a single-page application: a single HTML file that you can open in a browser. You can use it without getting this extension. ~~Learn more [here](https://github.com/BarnMTB/ZenDivider).~~ Currently working on the repository.
+- 📄 ZenDivider was originally a single-page application: a single HTML file that you can open in a browser. You can use it without getting this extension. Learn more [here](https://github.com/BarnMTB/ZenDivider).
   - ZenDivider Extension stores a version of ZenDivider inside itself and integrates with the browser to provide a quicker, easier way to access & open ZenDivider.  
   - In other words: the original, standalone ZenDivider file is like getting a bottle of soda: some will have a harder time popping that bottle. ZenDivider Extension is like getting that same bottle of soda along with a nice, easy to use bottle opener. Some will prefer not having to carry that bottle opener around, and some will prefer the convenience of having a bottle opener.
   - Note that you can't automatically migrate Dividers opened via ZenDivider Extension to a Divider opened from a standalone ZenDivider HTML file. Migration between the two have to be done manually.
