@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Assets/ZenDivider Extension Logo.png" width="350" align="center">
+</p>
+
 <h1 align="center">ZenDivider Browser Extension</h1>
 <p align="center">ZenDivider extension let you quickly create a simple renamable Divider for your tabs.</p>
 <p align="center">Create it, Rename it, Move it.</p>
